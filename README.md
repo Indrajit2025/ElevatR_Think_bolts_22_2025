@@ -1,2 +1,2 @@
 # ElevatR_Think_bolts_22_2025
-22 hacakathon  full team 
+Hello we Are team think-Bolts Presenting our Ai Model For Hackathon 2025.
